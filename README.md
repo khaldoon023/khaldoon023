@@ -2,9 +2,13 @@
 
 ###
 
+<br clear="both">
+
 <h2 align="left">Backend Dev</h2>
 
 ###
+
+<br clear="both">
 
 <div align="left">
   <a href="https://www.youtube.com/@khaldoon023" target="_blank">
@@ -23,12 +27,23 @@
 
 ###
 
+<br clear="both">
+
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=khaldoon023.khaldoon023&left_text=Visits"  />
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=khaldoon023&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=khaldoon023&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false" height="150" alt="stats graph"  />
 </div>
 
